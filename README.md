@@ -15,7 +15,6 @@ or use it. It helps me a lot.
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems
 - 👀 I try to offer my contribution by realising the power of community
 - 👯 I am eager to collaborate with fellow creators, developers, and tech enthusiasts.
-- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1v1CAD0bWN-RnbmdJBLwwCaWR8yPbuvmJ/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!  
 
 
 ![focus](https://img.shields.io/badge/focus-SoftwareDev-critical)
@@ -34,23 +33,23 @@ or use it. It helps me a lot.
 <table>
 <tr>
 	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,emotion,styledcomponents,nextjs,flutter" ></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,nextjs,flutter" ></td>
 </tr>
 <tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=c,cpp,java,py,js,&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=c,cpp,java,py,&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Design & UI</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=figma,md,materialui,svg&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=figma,materialui,svg&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,flask,django,graphql,postman&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,flask,django,postman&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Cloud and Deployment</strong></td>
@@ -58,7 +57,7 @@ or use it. It helps me a lot.
 </tr>
 <tr>
 	<td><strong>DevOps</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=kubernetes,docker,jenkins,cloudflare,linux&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=kubernetes,docker,jenkins,linux&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Version Control</strong></td>
